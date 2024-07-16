@@ -1,0 +1,26 @@
+Sistemas windows: 
+
+Cd - possibilita navegar entre as pastas 
+
+Dir - lista pastas dentro do diretorio 
+
+Mkdir - criar uma nova pasta
+
+Del- deletar arquivos dentro de pasta
+
+rmdir -remover repositorio 
+
+Cls- limpar o terminal
+
+TAB - função de completar
+
+SHA1 -(algoritimo de hash seguro) é um conjunto de funções hash critptografas projetadas pela NSA.
+ A encriptação gera conjunto de caracteres identificador de 40 dígitos.
+
+BLOBS - é um objeto que armazena blocos basicos 
+TREES - armazena blobs,  
+COMMITS - objeto mais importante de todos, que irá juntar tudo para dar sentido ao projeto.
+
+Chave SSH: Forma de estabelecer uma conexão segura e encriptada de duas máquinas. 
+
+Git status: monitora o status dos arquivos dentro do git.
